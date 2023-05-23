@@ -73,7 +73,7 @@ section.imagem > p {
   text-shadow: 1px 1px 0px black;
 }
 section#img01 {
-  background-image: url("");
+  background-image: url("background001.jpg");
   background-position: right center;
 }
 section#img02 {
